@@ -1,5 +1,6 @@
 Resume
 this is update
-I am from karunya
-hello
+HELLO
 I am Ruthwik
+FROM KARUNYA
+
